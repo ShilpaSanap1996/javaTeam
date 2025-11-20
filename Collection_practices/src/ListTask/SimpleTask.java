@@ -55,6 +55,8 @@ public class SimpleTask {
 //		} else {
 //			System.out.println("50 is NOT present in the list");
 //		}
+		
+		///****map most important feature is its ddepend on key pair value**///
 
 	}
 
